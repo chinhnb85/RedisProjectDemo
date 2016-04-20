@@ -64,9 +64,9 @@ namespace RequireJsDemo
             //show
             var obj=rc.Get<Empty>("demo");
 
-            var obj2 = rc2.GetList<Empty>("demo2");
+            var obj2 = rc2.GetList<Empty>("demo3");
 
-            Response.Write(obj.Name+"<br/>"+ obj2[1].Name);
+            Response.Write(obj.Name+"<br/>"+ obj2[0].Name);
         }
     }
 }

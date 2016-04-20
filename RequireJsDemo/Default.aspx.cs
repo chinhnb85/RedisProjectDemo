@@ -60,13 +60,21 @@ namespace RequireJsDemo
                 Password = "123456",
                 Status = 1
             }, new TimeSpan(3600));
+            rc2.Set("demo3", new Empty
+            {
+                Id = 1235343,
+                Name = "Nguyễn Văn B",
+                UserName = "cnnguyen",
+                Password = "123456",
+                Status = 1
+            }, new TimeSpan(3600));
 
             //show
             var obj=rc.Get<Empty>("demo");
 
             var obj2 = rc2.GetList<Empty>("demo3");
 
-            Response.Write(obj.Name+"<br/>"+ obj2[0].Name);
+            Response.Write(obj.Name+"<br/>"+ obj2[1].Name);
         }
     }
 }

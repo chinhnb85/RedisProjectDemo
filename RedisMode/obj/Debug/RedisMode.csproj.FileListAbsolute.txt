@@ -1,0 +1,11 @@
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\obj\Debug\RedisMode.csprojResolveAssemblyReference.cache
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\bin\Debug\RedisMode.dll
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\bin\Debug\RedisMode.pdb
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\bin\Debug\log4net.dll
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\bin\Debug\Newtonsoft.Json.dll
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\bin\Debug\StackExchange.Redis.dll
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\bin\Debug\log4net.xml
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\bin\Debug\Newtonsoft.Json.xml
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\bin\Debug\StackExchange.Redis.xml
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\obj\Debug\RedisMode.dll
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\obj\Debug\RedisMode.pdb

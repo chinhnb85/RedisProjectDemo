@@ -1,0 +1,195 @@
+ERROR 2016-04-21 16:35:48,901  3714ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:35:58,273 13085ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:36:00,333 15146ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:37:17,611  3571ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:37:26,057 12017ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:37:28,119 14079ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:37:32,707 18668ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:37:41,928 27888ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:37:43,990 29950ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:38:56,243 102203ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:39:06,366 112326ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:39:08,433 114394ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:52:20,300  3653ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:52:29,663 13016ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:52:32,674 16028ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:52:37,118 20471ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:52:46,316 29670ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:52:48,385 31738ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:53:45,961 89314ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:53:55,181 98534ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:53:57,236 100589ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:55:17,396 180749ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:55:26,586 189939ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:55:28,643 191996ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:55:47,381 210734ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:55:55,663 219016ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 16:55:57,729 221082ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:05:33,566  7217ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:05:41,990 15640ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:05:44,055 17705ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:05:57,851 31502ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:06:07,040 40690ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:06:09,098 42748ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:07:00,234 93884ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:07:08,477 102127ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:07:10,538 104188ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:07:18,794 112444ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. SocketFailure on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:07:28,008 121659ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35
+ERROR 2016-04-21 17:07:30,067 123717ms RedisCacheString`1     itializeConnection - Error connecting the redis cache : It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+StackExchange.Redis.RedisConnectionException: It was not possible to connect to the redis server(s); to create a disconnected multiplexer, disable AbortOnConnectFail. UnableToResolvePhysicalConnection on PING
+   at StackExchange.Redis.ConnectionMultiplexer.ConnectImpl(Func`1 multiplexerFactory, TextWriter log)
+   at StackExchange.Redis.ConnectionMultiplexer.Connect(String configuration, TextWriter log)
+   at RedisMode.Mode.RedisCacheString`1.InitializeConnection() in E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RedisMode\Mode\RedisCacheString.cs:line 35

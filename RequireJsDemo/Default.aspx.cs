@@ -4,7 +4,8 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using RequireJsDemo.Responsive;
+using RedisMode.Repository.News;
+using RedisMode.Repository.RedisKey;
 
 namespace RequireJsDemo
 {
@@ -12,69 +13,36 @@ namespace RequireJsDemo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            RedisCacheString rc=new RedisCacheString(true);
+            RedisKeyService redisKeyService = new RedisKeyService();
 
-            RedisCacheSet rc2 = new RedisCacheSet(true);
+            NewsService newsService=new NewsService();
 
-            //rc.Set("demo",new Empty
-            //{
-            //    Id = 123456,
-            //    Name="Nguyễn Bá Chính",
-            //    UserName="chinhnb",
-            //    Password="123456",
-            //    Status=1
-            //}, new TimeSpan(3600));
-
-            //rc2.Set("demo2", new Empty
-            //{
-            //    Id = 123,
-            //    Name = "Nguyễn Văn A",
-            //    UserName = "annguyen",
-            //    Password = "123456",
-            //    Status = 1
-            //},new TimeSpan(3600));
-
-            //rc2.Set("demo2", new Empty
-            //{
-            //    Id = 1234,
-            //    Name = "Nguyễn Văn B",
-            //    UserName = "bnnguyen",
-            //    Password = "123456",
-            //    Status = 1
-            //}, new TimeSpan(3600));
-
-            //rc2.Set("demo2", new Empty
-            //{
-            //    Id = 1235,
-            //    Name = "Nguyễn Văn C",
-            //    UserName = "cnnguyen",
-            //    Password = "123456",
-            //    Status = 1
-            //}, new TimeSpan(3600));
-
-            rc2.Set("demo3", new Empty
+            newsService.Add(new NewsEntity
             {
-                Id = 1235,
+                Id = 123,
+                Title = "Demo title",
+                Status = 1
+            });
+            newsService.Add(new NewsEntity
+            {
+                Id = 1234,
+                Title = "Demo title",
+                Status = 1
+            });
+
+            redisKeyService.Add(new RedisKeyEntity
+            {
+                Id = 123567,
                 Name = "Nguyễn Văn A",
-                UserName = "cnnguyen",
-                Password = "123456",
                 Status = 1
-            }, new TimeSpan(3600));
-            rc2.Set("demo3", new Empty
-            {
-                Id = 1235343,
-                Name = "Nguyễn Văn B",
-                UserName = "cnnguyen",
-                Password = "123456",
-                Status = 1
-            }, new TimeSpan(3600));
+            });            
 
-            //show
-            var obj=rc.Get<Empty>("demo");
+            var obj = redisKeyService.Get(typeof(RedisKeyEntity).Name);
 
-            var obj2 = rc2.GetList<Empty>("demo3");
+            var obj2 = newsService.GetList(typeof(NewsEntity).Name);
 
-            Response.Write(obj.Name+"<br/>"+ obj2[1].Name);
+            //Response.Write(obj2[0].Title + "<br/>"+obj.Name);
+
         }
     }
 }

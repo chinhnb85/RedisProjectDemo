@@ -64,8 +64,6 @@ E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\Microsoft.Applicatio
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\Newtonsoft.Json.dll
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\StackExchange.Redis.dll
-E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\this.Log-log4net.dll
-E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\this.Log.dll
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\log4net.xml
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\Microsoft.AI.DependencyCollector.xml
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
@@ -78,3 +76,8 @@ E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\StackExchange.Redis.
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\obj\Debug\RequireJsDemo.csprojResolveAssemblyReference.cache
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\obj\Debug\RequireJsDemo.dll
 E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\obj\Debug\RequireJsDemo.pdb
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\RedisMode.dll
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\RedisMode.pdb
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\Microsoft.Owin.dll
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\Owin.dll
+E:\VCcorp\Demo\RedisDemo\RedisProjectDemo\RequireJsDemo\bin\Microsoft.Owin.xml
